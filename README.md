@@ -1,2 +1,2 @@
 # cweiqiang.github.io
-1st github webpage hosy
+1st github webpage host
